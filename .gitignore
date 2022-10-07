@@ -1,0 +1,16 @@
+.idea/
+venv/
+main.py
+MainPage/
+db.sqlite3
+manage.py
+django-example/TestProject/ListOfJokes/__pycache__/
+django-example/TestProject/ListOfJokes/migrations/
+django-example/TestProject/ListOfJokes/__init__.py
+django-example/TestProject/ListOfJokes/admin.py
+django-example/TestProject/ListOfJokes/apps.py
+django-example/TestProject/ListOfJokes/tests.py
+django-example/TestProject/TestProject/__pycache__/
+django-example/TestProject/TestProject/__init__.py
+django-example/TestProject/TestProject/asgi.py
+django-example/TestProject/TestProject/wsgi.py
